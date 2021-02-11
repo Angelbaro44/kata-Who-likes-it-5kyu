@@ -1,5 +1,6 @@
 
-
+// This mimics the "like" system from Facebook and other pages.
+// Takes an array of names as the argument
 
 
 function likes(names) {
